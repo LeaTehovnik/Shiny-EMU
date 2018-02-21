@@ -1,0 +1,11 @@
+name: projekt1
+title: projekt1
+account: leatehovnik
+server: shinyapps.io
+appId: 163674
+bundleId: 749002
+url: https://leatehovnik.shinyapps.io/projekt1/
+when: 1489616137.91033
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: EMU.zip|Eurostat_Table_tec00097NoFlagNoDesc_fef3a15d-1047-4310-b4c1-3d013bfe88e7.xls|Eurostat_Table1.txt|www/IMG_7520.jpg
